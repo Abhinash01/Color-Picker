@@ -18,9 +18,7 @@ A mini UI + logic project that lets users pick a color and dynamically changes t
 - CSS3
 - Vanilla JavaScript
 
-## 📸 Preview
 
-![Color Picker Preview](preview.png)
 
 ## 📂 How to Use
 
