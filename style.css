@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s ease;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  input[type="color"] {
+    margin-top: 20px;
+    width: 80px;
+    height: 50px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #colorCode {
+    margin-top: 15px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
